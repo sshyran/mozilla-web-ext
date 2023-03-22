@@ -98,7 +98,7 @@
     "@commitlint/cli": "11.0.0",
     "@commitlint/config-conventional": "11.0.0",
     "babel-eslint": "10.1.0",
-    "babel-loader": "8.2.2",
+    "babel-loader": "8.3.0",
     "babel-plugin-istanbul": "6.0.0",
     "chai": "4.3.4",
     "chai-as-promised": "7.1.1",
